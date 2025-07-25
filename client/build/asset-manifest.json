@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fcadac3e.js",
+    "index.html": "/index.html",
+    "main.fcadac3e.js.map": "/static/js/main.fcadac3e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fcadac3e.js"
+  ]
+}
