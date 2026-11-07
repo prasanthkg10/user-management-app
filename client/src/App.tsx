@@ -9,7 +9,7 @@ const App: React.FC = () => (
     <AppBar position="static">
       <Toolbar>
         <Button color="inherit" component={Link} to="/">User List</Button>
-        <Button color="inherit" component={Link} to="/create">Create User</Button>
+        <Button color="inherit" component={Link} to="/create">Create Users</Button>
       </Toolbar>
     </AppBar>
     <Container sx={{ mt: 4 }}>
